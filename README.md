@@ -1,8 +1,8 @@
 # Hi there, I'm Yassine Zaoui! 👋
 
-Welcome to my GitHub profile! I am a passionate **final-year engineering student at ENSTA Paris** and an **M2 student at ENS Paris-Saclay**, specializing in **Machine Learning, Computer Vision, and Applied Mathematics**. My academic journey has equipped me with strong analytical and problem-solving skills, allowing me to tackle real-world challenges through cutting-edge AI and statistical techniques.
+Welcome to my GitHub profile! I am a passionate **final-year engineering student at ENSTA Paris** and an **M2 MVA student at ENS Paris-Saclay**, specializing in **Machine Learning, Computer Vision, and Applied Mathematics**. My academic journey has equipped me with strong analytical and problem-solving skills, allowing me to tackle real-world challenges through cutting-edge AI and statistical techniques.
 
-I have a deep interest in **Machine Learning, Deep Learning, and Computational Statistics**, particularly in areas such as **representation learning, sequential learning, time series forecasting, and computer vision**. My projects and research focus on **advancing AI applications**, particularly in **medical imaging, adversarial machine learning, and time-series analysis**.
+I have a deep interest in **Machine Learning and Deep Learning**, particularly in areas such as **computer vision and LLMs**. My projects and research focus on **advancing AI applications**, particularly in **medical imaging, adversarial machine learning, and time-series analysis**.
 
 Currently, I am seeking exciting opportunities, including research collaborations and internships, where I can apply my skills in **AI, data science, and mathematical modeling** to solve complex problems.
 
@@ -15,15 +15,15 @@ Currently, I am seeking exciting opportunities, including research collaboration
   - Engineering student at **ENSTA Paris**
   
 - 🔬 **Research & Interests:**
-  - **Machine Learning & AI:** Deep Learning, Representation Learning, Adversarial ML, Graph Neural Networks
+  - **Machine Learning & AI:** Deep Learning, Representation Learning, Adversarial ML
   - **Computer Vision & Medical Imaging:** Image Denoising, 3D Reconstruction, SAX-NeRF, Transformers for vision
-  - **Time Series & Sequential Learning:** GRU-D models, forecasting methods, missing data handling
-  - **Mathematical Modeling:** Stochastic Processes, PDEs, Optimization, Functional Analysis
+  - **Time Series :** GRU-D models, forecasting methods, missing data handling
+  - **Mathematical Modeling:** Statistics, Stochastic Processes, PDEs, Optimization, Functional Analysis
   
-- 🌟 **Current Projects:**
-  - **Adversarial Machine Learning**: Developing adversarial examples on MNIST using L-BFGS and FGSM.
-  - **Medical Imaging with Transformers**: Investigating 3D reconstruction techniques using SAX-NeRF.
-  - **EEG Analysis with SSL Methods**: Applying self-supervised learning for sleep staging and pathology detection.
+- 🌟 **Recent Projects:**
+  - **Moratality prediction**: explored the potential of a GRU-D to extract information from missing information to predict mortality for ICU patients.
+  - **Medical Imaging with Transformers**: Investigated 3D reconstruction techniques using SAX-NeRF.
+  - **EEG Analysis with SSL Methods**: Applied self-supervised learning for sleep staging and pathology detection.
 
 ---
 
@@ -32,7 +32,7 @@ Currently, I am seeking exciting opportunities, including research collaboration
 ### Programming Languages
 ```bash
 - Python
-- C++
+- C/C++
 - MATLAB
 - LaTeX
 ```
@@ -47,10 +47,9 @@ Currently, I am seeking exciting opportunities, including research collaboration
 
 ### Tools & Frameworks
 ```bash
-- TensorFlow
+- Seasborn
 - Matplotlib
 - Pandas
-- Streamlit
 ```
 
 ---
@@ -63,21 +62,20 @@ Currently, I am seeking exciting opportunities, including research collaboration
 
 ### 🏥 Medical Imaging with SAX-NeRF
 - Investigating **3D reconstruction techniques** using transformers.
-- Applying **representation learning** for medical imaging applications.
+- Tried different sampling methods to avoid redundancy and promote diversity.
 
 ### 📊 EEG Analysis with Self-Supervised Learning
 - Studied **SSL methods** for **sleep staging and pathology detection**.
-- Built deep learning models for EEG time-series analysis.
+- Tried different regularizaton techniques to improve model performance on pretexts.
 
 ### 🚀 GRU-D for Multivariate Time Series Forecasting
-- Designed a **GRU-D model** to handle missing data in time series.
-- Applied **sequential learning** techniques for real-world forecasting.
+- Explored **GRU-D model** to handle missing data in time series.
+- Tried different improvements attempt to make new imputations in the studied time series.
 
 ---
 
 ## 🌟 Highlights
 
-- 🏆 **Hackathon Participant:** Competing in ML & AI challenges.
 - 📖 **Continual Learner:** Expanding expertise in deep learning & mathematical modeling.
 - 🎯 **Research-Oriented:** Passionate about solving cutting-edge AI problems.
 - 💡 **Problem Solver:** Strong background in **mathematical modeling, statistics, and optimization**.
